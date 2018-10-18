@@ -1,0 +1,574 @@
+runfile('C:/Users/Chris/Desktop/EE381/midterm.py', wdir='C:/Users/Chris/Desktop/EE381')
+
+Enter number of trials for this experiment: 100
+trial  0
+9  
+7  
+trial  1
+9  
+5  
+5  
+7  
+trial  2
+9  
+8  
+11  
+5  
+3  
+trial  3
+9  
+4  
+6  
+3  
+trial  4
+12  
+11  
+4  
+9  
+8  
+8  
+5  
+8  
+7  
+trial  5
+3  
+trial  6
+9  
+6  
+10  
+8  
+7  
+trial  7
+4  
+12  
+7  
+trial  8
+5  
+7  
+trial  9
+7  
+trial  10
+7  
+trial  11
+7  
+trial  12
+7  
+trial  13
+6  
+8  
+5  
+7  
+trial  14
+4  
+7  
+trial  15
+7  
+trial  16
+5  
+2  
+5  
+6  
+6  
+6  
+7  
+trial  17
+9  
+3  
+trial  18
+11  
+9  
+5  
+5  
+9  
+6  
+9  
+3  
+trial  19
+8  
+8  
+2  
+10  
+5  
+8  
+6  
+6  
+11  
+11  
+7  
+trial  20
+8  
+8  
+8  
+4  
+7  
+trial  21
+6  
+5  
+9  
+6  
+6  
+10  
+10  
+4  
+4  
+6  
+6  
+9  
+6  
+7  
+trial  22
+6  
+12  
+2  
+2  
+11  
+10  
+7  
+trial  23
+6  
+12  
+7  
+trial  24
+7  
+trial  25
+4  
+4  
+8  
+4  
+5  
+10  
+9  
+2  
+3  
+trial  26
+9  
+8  
+12  
+8  
+8  
+5  
+6  
+9  
+7  
+trial  27
+9  
+5  
+6  
+11  
+7  
+trial  28
+9  
+5  
+10  
+8  
+7  
+trial  29
+5  
+8  
+3  
+trial  30
+7  
+trial  31
+5  
+10  
+7  
+trial  32
+8  
+9  
+6  
+12  
+6  
+9  
+8  
+7  
+trial  33
+9  
+11  
+12  
+8  
+5  
+5  
+9  
+8  
+3  
+trial  34
+7  
+trial  35
+7  
+trial  36
+8  
+9  
+9  
+10  
+3  
+trial  37
+9  
+5  
+11  
+10  
+12  
+11  
+10  
+11  
+8  
+10  
+8  
+8  
+10  
+10  
+5  
+2  
+4  
+3  
+trial  38
+3  
+trial  39
+9  
+8  
+3  
+trial  40
+10  
+7  
+trial  41
+4  
+8  
+7  
+trial  42
+10  
+10  
+6  
+2  
+3  
+trial  43
+4  
+8  
+5  
+6  
+4  
+8  
+11  
+10  
+7  
+trial  44
+5  
+9  
+9  
+3  
+trial  45
+4  
+8  
+7  
+trial  46
+7  
+trial  47
+11  
+11  
+9  
+7  
+trial  48
+7  
+trial  49
+7  
+trial  50
+4  
+9  
+7  
+trial  51
+8  
+2  
+8  
+9  
+6  
+4  
+9  
+6  
+7  
+trial  52
+10  
+12  
+4  
+9  
+4  
+8  
+9  
+8  
+10  
+5  
+7  
+trial  53
+7  
+trial  54
+7  
+trial  55
+7  
+trial  56
+7  
+trial  57
+9  
+4  
+6  
+10  
+9  
+7  
+trial  58
+11  
+7  
+trial  59
+11  
+12  
+11  
+6  
+6  
+6  
+7  
+trial  60
+10  
+9  
+5  
+8  
+5  
+6  
+8  
+7  
+trial  61
+6  
+4  
+12  
+6  
+9  
+7  
+trial  62
+6  
+6  
+2  
+6  
+7  
+trial  63
+3  
+trial  64
+9  
+10  
+10  
+9  
+3  
+trial  65
+3  
+trial  66
+3  
+trial  67
+7  
+trial  68
+6  
+4  
+5  
+12  
+8  
+12  
+4  
+2  
+6  
+5  
+8  
+8  
+9  
+6  
+8  
+2  
+8  
+6  
+4  
+9  
+5  
+7  
+trial  69
+6  
+5  
+8  
+2  
+5  
+4  
+10  
+8  
+5  
+7  
+trial  70
+7  
+trial  71
+4  
+4  
+5  
+6  
+9  
+10  
+8  
+5  
+8  
+5  
+8  
+6  
+9  
+8  
+7  
+trial  72
+6  
+7  
+trial  73
+8  
+9  
+6  
+7  
+trial  74
+5  
+9  
+9  
+6  
+11  
+9  
+5  
+5  
+6  
+8  
+6  
+11  
+3  
+trial  75
+9  
+5  
+9  
+8  
+3  
+trial  76
+7  
+trial  77
+8  
+9  
+2  
+5  
+7  
+trial  78
+9  
+6  
+6  
+7  
+trial  79
+12  
+7  
+trial  80
+7  
+trial  81
+6  
+6  
+4  
+8  
+5  
+11  
+6  
+7  
+trial  82
+5  
+10  
+9  
+5  
+6  
+2  
+8  
+8  
+7  
+trial  83
+3  
+trial  84
+5  
+7  
+trial  85
+4  
+4  
+6  
+12  
+12  
+11  
+8  
+9  
+10  
+9  
+7  
+trial  86
+5  
+8  
+5  
+8  
+11  
+6  
+6  
+7  
+trial  87
+2  
+7  
+trial  88
+6  
+3  
+trial  89
+2  
+4  
+7  
+trial  90
+4  
+8  
+4  
+8  
+4  
+8  
+8  
+9  
+7  
+trial  91
+5  
+7  
+trial  92
+6  
+8  
+11  
+11  
+8  
+8  
+10  
+5  
+7  
+trial  93
+3  
+trial  94
+10  
+12  
+8  
+11  
+6  
+5  
+6  
+7  
+trial  95
+4  
+10  
+4  
+8  
+7  
+trial  96
+5  
+9  
+9  
+3  
+trial  97
+12  
+12  
+5  
+9  
+7  
+trial  98
+7  
+trial  99
+6  
+4  
+6  
+10  
+7  
+trial  100
+7  
+probability:  0.24
